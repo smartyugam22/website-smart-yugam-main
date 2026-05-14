@@ -12,9 +12,9 @@ const Footer = () => {
         Smart Yugam Academy
       </p>
       <p>Beyond Book Education</p>
-        <p style={{ marginTop: '.5rem' }}>
-          <a href="tel:+918248553958">+91 824 855 3958</a> | <a href="mailto:smartyugamacademy@gmail.com">smartyugamacademy@gmail.com</a>
-        </p>
+      <p style={{ marginTop: '.5rem' }}>
+        <a href="tel:+918248553958">+91 824 855 3958</a> | <a href="mailto:smartyugamacademy@gmail.com">smartyugamacademy@gmail.com</a>
+      </p>
       <div className="footer-links">
         <Link to="/about">About</Link>
         <Link to="/programs">Programs</Link>
@@ -25,7 +25,7 @@ const Footer = () => {
         <Link to="/contact">Contact</Link>
       </div>
       <div className="footer-copy">
-        <p>© 2025 Smart Yugam Academy. ISO 9001:2015 Certified. Chennai & Coimbatore.</p>
+        <p>© 2026 Smart Yugam Academy. ISO 9001:2015 Certified. Chennai & Coimbatore.</p>
       </div>
 
       <style jsx>{`
